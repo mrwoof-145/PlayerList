@@ -1,0 +1,22 @@
+[
+  {
+    "bad": [
+      {
+        "Type": "RestrictLeaving",
+        "Modifier": -1
+      }
+    ],
+    "good": [
+      {
+        "Type": "MultiplyAll",
+        "Modifier": 4
+      }
+    ],
+    "medium": [
+      {
+        "Type": "MultiplyPoints",
+        "Modifier": 2
+      }
+    ]
+  }
+]
